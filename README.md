@@ -6,3 +6,5 @@
 Слова из CyberCamp https://docs.google.com/document/d/137o9gV2SOMl2hbBmiQV8HB9l_V4fiEdKAkig918rLbs/edit?usp=sharing
 
 ОС https://drive.google.com/file/d/1flM4pvxlitmMd2R4fHjpwu2O0VrSxqpq/view?usp=sharing
+
+ВПР https://docs.google.com/document/d/1jJFc8WXZPV6eTh6eqmU_BzURNiOgq-K4KEX449jR5bA/edit?usp=sharing
