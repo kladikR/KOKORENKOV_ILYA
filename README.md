@@ -14,3 +14,9 @@
 GIT https://docs.google.com/document/d/1cOug7rf2Bv-mRRIBktHNPSQ3CwhZ9jGf1bYcGENu8ac/edit?usp=drive_link
 
 Антикорупция https://docs.google.com/presentation/d/1SRbSHCoNhxzOqE7QZFaUpXzbrj7AF1tvnEhmHIuKwOk/edit?usp=drive_link
+
+Конспект по Python https://docs.google.com/document/d/1jkiGrU0dvZ-7ufT92MXQU8HfzjJRPLFEbsOfjsdbkbw/edit?usp=drive_link
+
+Конспект по Positive Technologies https://docs.google.com/document/d/1M1OHJFiI3MFx5cXYjIh4nMNCLsRpGXXVilLuaaA-3Hc/edit?usp=drive_link
+
+Конспект по Stepik https://docs.google.com/document/d/16k7WWYMTPFeOtWpyqryhq9TuS3Wtlf_ePSz08nsyB5M/edit?usp=drive_link
