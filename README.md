@@ -20,3 +20,5 @@ GIT https://docs.google.com/document/d/1cOug7rf2Bv-mRRIBktHNPSQ3CwhZ9jGf1bYcGENu
 Конспект по Positive Technologies https://docs.google.com/document/d/1M1OHJFiI3MFx5cXYjIh4nMNCLsRpGXXVilLuaaA-3Hc/edit?usp=drive_link
 
 Конспект по Stepik https://docs.google.com/document/d/16k7WWYMTPFeOtWpyqryhq9TuS3Wtlf_ePSz08nsyB5M/edit?usp=drive_link
+
+Контрольная работа на тему Python https://docs.google.com/document/d/1urrsoECROocNef8CBmtAuVJ8JF9FFY4cgzN2Ji3FjbY/edit?usp=sharing 
